@@ -1,5 +1,2 @@
 01. Microsoft Exchange Server (CVE-2022-41040, CVE-2022-41082) exploited in the wild
 = subfinder -d disney.cpm -all -silent -o subdomain.txt nmap -iL subdomain.txt -p 443 --script proxynotshell_checker.nse
-
-
-<pre>cat HOSTS.txt <span class="pl-k">|</span> parallel -j50 -q curl -w <span class="pl-s"><span class="pl-pds">'</span>Status:%{http_code}\t  Size:%{size_download}\t %{url_effective}\n<span class="pl-pds">'</span></span> -o /dev/null -sk</pre>
