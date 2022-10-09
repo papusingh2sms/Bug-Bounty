@@ -1,3 +1,5 @@
 /_wpeprivate/config.json
 /logs
 /logs/user.txt
+/api/metadata
+/api/resource
