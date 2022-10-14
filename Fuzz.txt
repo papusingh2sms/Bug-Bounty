@@ -3,3 +3,7 @@
 /logs/user.txt
 /api/metadata
 /api/resource
+/api/v1/0.0.1/users/***
+/api/v1/0.0.2/0.1/users/***
+/apis/users/0-0-0/0.0.1
+/apis/users/0.0.1/1.0.0
