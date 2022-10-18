@@ -8,3 +8,4 @@
 /apis/users/0-0-0/0.0.1
 /apis/users/0.0.1/1.0.0
 /+CSCOE+/saml/sp/acs?tgname=a
+/clkn/http/evil.com?.redacted.com
