@@ -2,3 +2,8 @@
 = subfinder -d disney.com -all -silent -o subdomain.txt ; nmap -iL subdomain.txt -p 443 --script proxynotshell_checker.nse
 
 script : https://raw.githubusercontent.com/GossiTheDog/scanning/main/http-vuln-exchange-proxyshell.nse
+
+
+02.
+Redirection 
+└──╼ $waybackurls ondeck.com | grep -a -i \=http | bhedak 'http://evil.com' | while read host do;do curl -s -L $host -I|grep "evil.com" && echo -e "$host \033[0;31mVulnerable\n" ;done
