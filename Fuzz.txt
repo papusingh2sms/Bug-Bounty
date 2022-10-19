@@ -14,3 +14,4 @@
 /lostpassword.php/n4gap%22%3E%3Cimg%20src=a%20onerror=alert(%22document.domain%22)%3E
 /gsearch.php.en?prod=';prompt`document.domain`;//
 /apply_sec.cgi
+/wp-admin/admin-ajax.php?action=directorist_author_pagination
