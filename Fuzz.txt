@@ -20,3 +20,4 @@
 /uir//etc/passwd
 /cgi-bin/status/status.cgi
 /wnm/login/login.json
+/wp-content/debug.log
